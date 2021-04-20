@@ -1,0 +1,24 @@
+
+#l{
+    width: 120px;
+    background-color: #3c4349;
+    color: white;
+    border-width: 2px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+
+#l:hover{
+    width: 120px;
+    background-color: #262a2e;
+    color: white;
+    border-width: 2px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.loginButton{
+    margin-top: 30px;
+    position: relative;
+    top: -20px;
+}
